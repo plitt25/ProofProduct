@@ -15,7 +15,7 @@ Se debe tener instalado node para usar el proyecto
 
 ### 1. Clonar el repositorio
 Desde la carpeta abrimos la consola de gitbash y clonamos el repo
-git clone https://github.com/tu-usuario/ProofProduct.git
+git clone https://github.com/plitt25/ProofProduct.git
 
 ### 2. Acceder al directorio del proyecto
 Accedemos a la ubicacion del proyecto
